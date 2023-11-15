@@ -20,4 +20,13 @@
 #3. git commit -m "Message here"
 #4. git push origin main
 
+#Git branch and pull request
+#1. git branch -b feature_name
+#2. git add 
+#3. git commit -m 
+#4. git push origin feature_name
+#5. put in a pull request 
+#6. visit Github and merge your pull request into main
+#7. git checkout main
+#8. git pull origin main
 
